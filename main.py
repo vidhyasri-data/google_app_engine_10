@@ -8,6 +8,8 @@ app.secret_key = "cloud_computing_2026_secret"
 
 # --- SETTINGS ---
 
+BACKGROUND_IMAGE = "https://images.unsplash.com/photo-1451187580459-43490279c0fa"
+
 CLOUD_FACTS = [
     "90% of the world's data was generated in the last 2 years thanks to Cloud scalability.",
     "Cloud computing is estimated to be 40% more cost-effective for small businesses.",
